@@ -1,0 +1,14 @@
+C:\Users\Win10\source\repos\Calculadora De Ranking\obj\Debug\net7.0\Calculadora De Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\source\repos\Calculadora De Ranking\obj\Debug\net7.0\Calculadora De Ranking.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Calculadora De Ranking\obj\Debug\net7.0\Calculadora De Ranking.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Calculadora De Ranking\obj\Debug\net7.0\Calculadora De Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Calculadora De Ranking\bin\Debug\net7.0\Calculadora De Ranking.exe
+C:\Users\Win10\source\repos\Calculadora De Ranking\bin\Debug\net7.0\Calculadora De Ranking.deps.json
+C:\Users\Win10\source\repos\Calculadora De Ranking\bin\Debug\net7.0\Calculadora De Ranking.runtimeconfig.json
+C:\Users\Win10\source\repos\Calculadora De Ranking\bin\Debug\net7.0\Calculadora De Ranking.dll
+C:\Users\Win10\source\repos\Calculadora De Ranking\bin\Debug\net7.0\Calculadora De Ranking.pdb
+C:\Users\Win10\source\repos\Calculadora De Ranking\obj\Debug\net7.0\Calculadora De Ranking.dll
+C:\Users\Win10\source\repos\Calculadora De Ranking\obj\Debug\net7.0\refint\Calculadora De Ranking.dll
+C:\Users\Win10\source\repos\Calculadora De Ranking\obj\Debug\net7.0\Calculadora De Ranking.pdb
+C:\Users\Win10\source\repos\Calculadora De Ranking\obj\Debug\net7.0\Calculadora De Ranking.genruntimeconfig.cache
+C:\Users\Win10\source\repos\Calculadora De Ranking\obj\Debug\net7.0\ref\Calculadora De Ranking.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora De Ranking", "Calculadora De Ranking.csproj", "{68B6EA59-54D8-4213-8672-FE00E90582AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B6EA59-54D8-4213-8672-FE00E90582AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B6EA59-54D8-4213-8672-FE00E90582AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B6EA59-54D8-4213-8672-FE00E90582AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B6EA59-54D8-4213-8672-FE00E90582AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7400725-00FE-4FCD-B0EC-DBFD09C87669}
+	EndGlobalSection
+EndGlobal
